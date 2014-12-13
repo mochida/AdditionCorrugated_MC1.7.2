@@ -1,0 +1,10 @@
+[{
+  "modid": "Addition Corrugated",
+  "name": "Addition Corrugated",
+  "description": "主にダンボール類を追加するModです。",
+  "version": "1.5.1_MC1.7.2",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=19920",
+  "credits": "四角い鉄, ブリアレオス, スリなう",
+  "authors": "mochida"
+  "logoFile": "assets/additioncorrugated/textures/logo.png"
+}]
